@@ -1,0 +1,22 @@
+{
+  "expo": {
+    "scheme": "acme",
+    "web": {
+      "bundler": "metro"
+    },
+    "plugins": [
+      "expo-router",
+      "expo-font"
+    ],
+    "name": "Troll_jobs",
+    "slug": "Troll_jobs",
+    "extra": {
+      "router": {
+        "origin": false
+      },
+      "eas": {
+        "projectId": "057e897a-0207-4ff1-a4c9-929f41d2b869"
+      }
+    }
+  }
+}
